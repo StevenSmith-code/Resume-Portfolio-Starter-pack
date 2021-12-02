@@ -83,6 +83,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Spotify Clone (Next.js)",
+        "category": "",
+        "image": "https://fdn.gsmarena.com/imgroot/news/21/03/spotify-desktop-new-app/-1200x900m/gsmarena_003.jpg",
+        "url": "www.stevensmithcodingspotify.com"
+      },
+      {
         "title": "Amazon Clone (React JS)",
         "category": "",
         "image": "amazon.jpg",
