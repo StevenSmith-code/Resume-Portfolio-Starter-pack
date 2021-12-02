@@ -83,6 +83,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Spotify Clone (Next.js)",
+        "category": "",
+        "image": "121121111111111.png",
+        "url": "http://www.stevensmithcodingspotify.com/"
+      },
+      {
         "title": "Amazon Clone (React JS)",
         "category": "",
         "image": "amazon.jpg",
@@ -99,12 +105,6 @@
         "category": "",
         "image": "ezgg.jpg",
         "url": "https://ezgg-project.vercel.app/ "
-      },
-      {
-        "title": "Spotify Clone (Next.js)",
-        "category": "",
-        "image": "121121111111111.png",
-        "url": "http://www.stevensmithcodingspotify.com/"
       },
     ]
   },
