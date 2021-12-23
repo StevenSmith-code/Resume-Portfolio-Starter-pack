@@ -60,7 +60,7 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "95%"
       },
       {
         "name": "Java",
@@ -72,7 +72,7 @@
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "90%"
       },
       {
         "name": "Web Development",
@@ -82,6 +82,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Twitter Clone (Next.js)",
+        "category": "",
+        "image": "121121111111111.png",
+        "url": "https://twitter-clone-peach.vercel.app/"
+      },
       {
         "title": "Spotify Clone (Next.js)",
         "category": "",
